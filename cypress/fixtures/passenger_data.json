@@ -1,11 +1,11 @@
 {
   "TRAIN_NO": "12982",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "22/04/2025",
+  "TRAVEL_DATE": "21/04/2025",
   "SOURCE_STATION": "ASV",
   "BOARDING_STATION": null,
   "DESTINATION_STATION": "BHL",
-  "TATKAL": true,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
